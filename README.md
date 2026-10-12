@@ -51,6 +51,6 @@ To demonstrate functionality, the current prototype mirrors a critical software 
 ---
 
 ## 🔗 Project Links
-* **Interactive Figma Dashboard Mockup:** `[Paste your Figma link here]`
+* **Interactive Figma Dashboard Mockup:**https://www.figma.com/design/f1O2hbktS2t9pRE8e1WkYT/TwinHeal-Astra-Dashboard?node-id=0-1&t=k4kFff41Nd1rtYoQ-1
 * **3-Minute Project Video Presentation (YouTube):** `[Paste your YouTube unlisted video link here]`
 
